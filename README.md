@@ -1,2 +1,2 @@
-# cloud-cryptography-vpn-system
-Sensitive patient medical, administrative, and financial data was encrypted before transmission and decrypted at the receiver in a cloud environment to ensure confidentiality. Cryptographic keys and certificate configurations supported secure communication. Hashing verified data integrity and detected tampering during transmission.
+# 🔐 cloud-cryptography-vpn-system
+Implementation of a secure cloud and VPN-based cryptographic system for a simulated healthcare environment under Unit 24 Applied Cryptography in the Cloud. The project demonstrates practical application of public key infrastructure, hybrid encryption techniques, and cryptographic protocols to secure sensitive medical data transmission and storage in a cloud-based distributed system.
