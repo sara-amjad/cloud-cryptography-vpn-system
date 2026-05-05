@@ -1,4 +1,4 @@
-# 🔐 cloud-cryptography-vpn-system
+# 🔐 Cloud-Cryptography-VPN-System
 Implementation of a secure cloud and VPN-based cryptographic system for a simulated healthcare environment. The project demonstrates practical application of public key infrastructure, hybrid encryption techniques, and cryptographic protocols to secure sensitive medical data transmission and storage in a cloud-based distributed system.
 ## 📚 Academic Context
 This project was developed as part of Unit 24: Applied Cryptography in the Cloud under the Pearson BTEC HND in Digital Technologies (Cyber Security). It demonstrates academic engagement with the unit requirements and assessment criteria for applied cryptographic systems in cloud environments.
