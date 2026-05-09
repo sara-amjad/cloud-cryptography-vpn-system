@@ -51,19 +51,15 @@ Encryption and decryption procedure:
 </p>
 <h3>Sample of PMD Dataset </h3>
 <p align="center">
-  <img src="Images/Sample of PMD Dataset .png" width="700"/>
+  <img src="Images/Sample of PMD Dataset .png" width="600"/>
 </p>
 <h3>Sample of PFD Dataset </h3>
 <p align="center">
-  <img src="Images/Sample of PFD Dataset .png" width="700"/>
+  <img src="Images/Sample of PFD Dataset .png" width="600"/>
 </p>
 <h3>Sample of PAD Dataset </h3>
 <p align="center">
-  <img src="Images/Sample of PAD Dataset .png" width="700"/>
-</p>
-<h3>Client Certificate using OpenSSL  </h3>
-<p align="center">
-  <img src="Images/Sample of PAD Dataset .png" width="700"/>
+  <img src="Images/Sample of PAD Dataset .png" width="600"/>
 </p>
 <h3>Client Certificate using OpenSSL </h3>
 <p align="center">
