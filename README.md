@@ -75,8 +75,27 @@ Encryption and decryption procedure:
 <h3>CA Certificate and Key Generation using OpenSSL  </h3>
 <p align="center">
   <img src="Images/CA Certificate and Key Generation using OpenSSL .png" width="700"/>
-</p>
+
+## Encryption and Decryption Process
 <h3>Certificate Verification </h3>
 <p align="center">
   <img src="Images/Certificate Verification Output .png" width="700"/>
+</p>
+<h3>Functions used for Chacha20 Cipher </h3>
+<p align="center">
+  <img src="Images/Functions used for Chacha20 Cipher .png" width="700"/>
+</p>
+<h3>Encryption </h3>
+<p align="center">
+  <img src="Images/Output of Encryption .png" width="700"/>
+</p>
+<h3>PAD, PFD and PMD after Encryption </h3>
+<p align="center">
+  <img src="Images/Sample of PMD Data After Encryption .png" width="700"/>
+</p>
+<p align="center">
+  <img src="Images/Sample of PFD Data After Encryption .png" width="700"/>
+</p>
+<p align="center">
+  <img src="Images/Sample of PAD Data After Encryption .png" width="700"/>
 </p>
