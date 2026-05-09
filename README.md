@@ -37,10 +37,10 @@ Encryption and decryption procedure:
 ## 🛡️ Security Case
 <h3>Threat Analysis</h3>
 <p align="center">
-  <img src="Threat Analysis.png" width="850"/>
+  <img src="Threat Analysis.png" width="700"/>
 </p>
 <p align="center">
-  <img src="Images/MitM attack and PKI-based solution.png" width="850"/>
+  <img src="Images/MitM attack and PKI-based solution.png" width="700"/>
 </p>
 
 ## ⚙️ System Implementation
@@ -59,4 +59,20 @@ Encryption and decryption procedure:
 <h3>Sample of PAD Dataset </h3>
 <p align="center">
   <img src="Images/Sample of PAD Dataset .png" width="700"/>
+</p>
+<h3>Client Certificate using OpenSSL  </h3>
+<p align="center">
+  <img src="Images/Sample of PAD Dataset .png" width="700"/>
+</p>
+<h3>Client Certificate using OpenSSL </h3>
+<p align="center">
+  <img src="Images/Client Certificate using OpenSSL .png" width="700"/>
+</p>
+<h3>Client Key Generation using OpenSSL </h3>
+<p align="center">
+  <img src="Images/Client Key Generation using OpenSSL.png" width="700"/>
+</p>
+<h3>CA Certificate and Key Generation using OpenSSL  </h3>
+<p align="center">
+  <img src="Images/CA Certificate and Key Generation using OpenSSL .png" width="700"/>
 </p>
