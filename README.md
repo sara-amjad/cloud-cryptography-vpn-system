@@ -23,3 +23,7 @@ The system integrates secure authentication through Public Key Infrastructure (P
 - Hashing mechanism implemented to ensure data integrity and detect unauthorized modifications during storage and transmission.  
 
 - Designed to support secure cloud migration by addressing scalability, confidentiality, and access control requirements in healthcare systems.  
+## 🔐 PKI-Based Secure Communication Architecture
+<p align="center">
+  <img src="Images/PKI-Based Encryption and Decryption.png" width="850"/>
+</p>
