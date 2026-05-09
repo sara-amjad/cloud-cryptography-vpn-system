@@ -35,4 +35,10 @@ Encryption and decryption procedure:
   
 - Information is decrypted with the help of a private key to restore original data.
   ## 🛡️ Security Case
-  
+Threat Analysis
+<p align="center">
+  <img src="Threat Analysis.png" width="850"/>
+</p>
+<p align="center">
+  <img src="Images/MitM attack and PKI-based solution.png" width="850"/>
+</p>
