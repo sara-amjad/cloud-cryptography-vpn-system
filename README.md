@@ -1,7 +1,8 @@
 # 🔐 Cloud-Cryptography-VPN-System
-Implementation of a secure cloud and VPN-based cryptographic system for a simulated healthcare environment. The project demonstrates practical application of public key infrastructure, hybrid encryption techniques, and cryptographic protocols to secure sensitive medical data transmission and storage in a cloud-based distributed system.
-## 📚 Academic Context
-This project was developed as part of Unit 24: Applied Cryptography in the Cloud under the Pearson BTEC HND in Digital Technologies (Cyber Security). It demonstrates academic engagement with the unit requirements and assessment criteria for applied cryptographic systems in cloud environments.
+**Author:** Sara Amjad | **Date:** May 2026
+
+> **Academic Context:** This project was developed as part of Unit 24: Applied Cryptography in the Cloud under the Pearson BTEC HND in Digital Technologies (Cyber Security). The system demonstrates the practical deployment of cryptographic mechanisms within a secure cloud-based healthcare communication environment, ensuring protected data exchange through structured encryption, authentication, and controlled key management.
+
 ## 📌 Project Overview
 This project implements a secure cloud-based cryptographic system designed for a simulated healthcare environment (Al Shifa Hospital Network). The system secures sensitive healthcare data across distributed hospital branches connected to a central data hub using VPN-based communication and encryption techniques.
 The implementation is based on three core datasets: Patient Administration Data (PAD), Patient Medical Data (PMD), and Patient Financial Data (PFD). Each dataset represents a different sensitivity level of healthcare information and is processed using appropriate cryptographic methods.
