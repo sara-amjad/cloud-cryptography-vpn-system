@@ -34,4 +34,5 @@ Encryption and decryption procedure:
 - Ciphertext is transmitted on the ASHN VPN.
   
 - Information is decrypted with the help of a private key to restore original data.
+  ## 🛡️ Security Case
   
