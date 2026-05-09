@@ -76,3 +76,7 @@ Encryption and decryption procedure:
 <p align="center">
   <img src="Images/CA Certificate and Key Generation using OpenSSL .png" width="700"/>
 </p>
+<h3>Certificate Verification </h3>
+<p align="center">
+  <img src="Images/Certificate Verification Output .png" width="700"/>
+</p>
