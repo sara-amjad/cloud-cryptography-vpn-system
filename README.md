@@ -121,3 +121,7 @@ Encryption and decryption procedure:
 <p align="center">
   <img src="Images/Sample Hash of PFD Dataset .png" width="700"/>
 </p>
+
+## ⚠️ Disclaimer
+This repository was developed for academic and educational purposes to demonstrate the implementation of cryptographic techniques, secure communication protocols, and cloud security mechanisms within a simulated healthcare environment.
+All datasets, organizational references, network configurations, and security scenarios presented in this repository are fictional and intended solely for demonstration purposes. No real patient records, hospital infrastructure, or confidential operational data were used in the development of this project.
