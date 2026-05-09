@@ -113,11 +113,11 @@ Encryption and decryption procedure:
 <p align="center">
   <img src="Images/Code Used for Hashing .png" width="700"/>
 </p>
-<h3>## Hash Verification </h3>
+<h3> Hash Verification </h3>
 <p align="center">
   <img src="Images/Sample Output of Hash Verification .png" width="700"/>
 </p>
-<h3>## Hashing </h3>
+<h3> Hashing </h3>
 <p align="center">
   <img src="Images/Sample Hash of PFD Dataset .png" width="700"/>
 </p>
