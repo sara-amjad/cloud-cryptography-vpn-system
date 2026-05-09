@@ -79,7 +79,7 @@ Encryption and decryption procedure:
 ## Encryption and Decryption Process
 <h3>Certificate Verification </h3>
 <p align="center">
-  <img src="Images/Certificate Verification Output .png" width="700"/>
+  <img src="Images/Certificate Verification Output .png" width="600"/>
 </p>
 <h3>Functions used for Chacha20 Cipher </h3>
 <p align="center">
@@ -98,4 +98,12 @@ Encryption and decryption procedure:
 </p>
 <p align="center">
   <img src="Images/Sample of PAD Data After Encryption .png" width="700"/>
+</p>
+<h3>Functions used for AES-CBC Cipher </h3>
+<p align="center">
+  <img src="Images/Functions used for AES-CBC Cipher .png" width="700"/>
+</p>
+<h3>Decryption </h3>
+<p align="center">
+  <img src="Images/Decryption Output .png" width="700"/>
 </p>
