@@ -27,3 +27,11 @@ The system integrates secure authentication through Public Key Infrastructure (P
 <p align="center">
   <img src="Images/PKI-Based Encryption and Decryption.png" width="850"/>
 </p>
+Encryption and decryption procedure: 
+
+- The public key of the receiver is used to encrypt PAD/PMD/PFD.
+  
+- Ciphertext is transmitted on the ASHN VPN.
+  
+- Information is decrypted with the help of a private key to restore original data.
+  
