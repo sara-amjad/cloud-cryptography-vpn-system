@@ -1,0 +1,71 @@
+patient_id,hospital_branch,record_date,disease_diagnosis,heart_rate,oxygen_level,blood_pressure,medication,doctor_notes,enc_status,enc_algorithm,nonce_or_iv,encrypted_key,row_hash,last_updated
+1000,Islamabad,10/04/2026 9:00,Diabetes,88,97,130/85,Insulin,Stable,plaintext,none,none,none,577d52fa644cd123a6296343e1bcad2841a328de6aa760efb3b9a5495fbfcff2,2026-04-22 10:37:04
+1001,Karachi,10/04/2026 9:05,Hypertension,92,95,140/90,Amlodipine,Monitoring,plaintext,none,none,none,9e71577faca23f3d542ab1d99d9b636b6ac1268f8d672019a0843d0c98b4a085,2026-04-22 10:37:04
+1002,Islamabad,10/04/2026 9:10,Asthma,85,93,120/80,Ventolin,Mild symptoms,plaintext,none,none,none,a10a4a8a4c3a9b221d7bcb2b3fcb36ca5354d435ddd9c41164362c2844c4b580,2026-04-22 10:37:04
+1003,Karachi,10/04/2026 9:15,Migraine,78,98,120/80,Panadol,Improving,plaintext,none,none,none,8bbfdcd6f8008776dc19e012132095f3f000a4ec429a40766921e8a1165a3249,2026-04-22 10:37:04
+1004,Islamabad,10/04/2026 9:20,Heart Disease,96,92,150/95,Aspirin,Critical,plaintext,none,none,none,983e8d3a18dbf03cce8e715e1eebd45adf775ad6e60e43f4d3cceb880be540dd,2026-04-22 10:37:04
+1005,Karachi,10/04/2026 9:25,Diabetes,90,96,135/85,Metformin,Stable,plaintext,none,none,none,716d5416c46dfaa7206154d43cf723d27ba5c7a0c38e5bb67c70cd4d100b3654,2026-04-22 10:37:05
+1006,Islamabad,10/04/2026 9:30,COVID-19,102,90,140/90,Paracetamol,Observation,plaintext,none,none,none,a5e39a1c767cbf5f3d75d8c34cba3cac5189aad8b0d9a4bc7111ece70311039f,2026-04-22 10:37:05
+1007,Karachi,10/04/2026 9:35,Pneumonia,95,91,135/85,Antibiotics,Serious,plaintext,none,none,none,768cdee70c784b68369df528e8ff338616e194db479824365b4e72c893b60842,2026-04-22 10:37:05
+1008,Islamabad,10/04/2026 9:40,Kidney Infection,87,97,120/80,Ciprofloxacin,Stable,plaintext,none,none,none,de7fabe97359af8169473a30a32128749752ff57c7592047f158083e9c6826ed,2026-04-22 10:37:05
+1009,Karachi,10/04/2026 9:45,Hypertension,93,95,145/90,Losartan,Monitoring,plaintext,none,none,none,53d022d3e600a090d9d0af2fb39729c862232605a3333a7d7fe88b6081dd4e4f,2026-04-22 10:37:05
+1010,Islamabad,10/04/2026 9:50,Diabetes,89,96,130/85,Insulin,Stable,plaintext,none,none,none,3396e4f79acacdc4b5aaaac10536653da2919196e641992de899d3b3916f330d,2026-04-22 10:37:05
+1011,Karachi,10/04/2026 9:55,Asthma,84,94,120/80,Ventolin,Improving,plaintext,none,none,none,da73c0ef07b31f2ed554a84e79d1ec36cc1180328c14f9f084e5f55536d63114,2026-04-22 10:37:05
+1012,Islamabad,10/04/2026 10:00,Heart Disease,98,92,150/95,Aspirin,Critical,plaintext,none,none,none,6048da9a599ee5d8604b00e7ec89b45db7883bbd620da88a5c4b52c7a17f7b05,2026-04-22 10:37:05
+1013,Karachi,10/04/2026 10:05,Migraine,80,97,120/80,Panadol,Stable,plaintext,none,none,none,2ba3ec06e55194e301da25d01920d333062b9c6dcf056e50c4b2075ec19940bf,2026-04-22 10:37:05
+1014,Islamabad,10/04/2026 10:10,Pneumonia,94,91,135/85,Antibiotics,Serious,plaintext,none,none,none,72facb74fcf59e1a5e81d9b246491c5271166c627581eb23fbe5b83f85b53d52,2026-04-22 10:37:05
+1015,Karachi,10/04/2026 10:15,COVID-19,101,90,140/90,Paracetamol,Observation,plaintext,none,none,none,1dc88b2bb1d5ad11e8eca4f0bb343dac1c238c62a4e74888241bc9a9ddd9c711,2026-04-22 10:37:05
+1016,Islamabad,10/04/2026 10:20,Kidney Infection,86,96,125/80,Ciprofloxacin,Stable,plaintext,none,none,none,0430d15eeef8a2648bd77ee6d6928da2ebb87ddab16863a0fbbfa240efe2d5dc,2026-04-22 10:37:05
+1017,Karachi,10/04/2026 10:25,Hypertension,91,95,140/90,Amlodipine,Monitoring,plaintext,none,none,none,dcd2e6791f8b0a3c130d68c37b86c853988a9404bc5b3bc8c2048c3c1f686fff,2026-04-22 10:37:05
+1018,Islamabad,10/04/2026 10:30,Diabetes,88,97,130/85,Metformin,Stable,plaintext,none,none,none,ba64e488a71ffd8bf77d67202a6aaf9755df98a919c525e445ec71e3e08452c9,2026-04-22 10:37:05
+1019,Karachi,10/04/2026 10:35,Asthma,83,94,120/80,Ventolin,Improving,plaintext,none,none,none,057f6e46946dbff4a6f1ca3bcd5360bfc7a47febfd1021d7a0f5df539a1ea661,2026-04-22 10:37:05
+1020,Islamabad,10/04/2026 10:40,Heart Disease,97,92,150/95,Aspirin,Critical,plaintext,none,none,none,7a87f001176ca97b4b660de66308de899172914df77509f3a6c5a40858ccb8c1,2026-04-22 10:37:05
+1021,Karachi,10/04/2026 10:45,Migraine,79,98,120/80,Panadol,Stable,plaintext,none,none,none,75c2b1114610086ffa67ddbd10b1c3f762160b4e692a5c7870703148bff5a4aa,2026-04-22 10:37:05
+1022,Islamabad,10/04/2026 10:50,Pneumonia,93,91,135/85,Antibiotics,Serious,plaintext,none,none,none,2f2bf44a4edfe7513d2391f94699b1f3850566683a945d96a3a6b1b982c4b76f,2026-04-22 10:37:05
+1023,Karachi,10/04/2026 10:55,COVID-19,100,90,140/90,Paracetamol,Observation,plaintext,none,none,none,4185924df25325cde5e4386760ee8951edb7c5238787386c3168f8dbc5d373cb,2026-04-22 10:37:05
+1024,Islamabad,10/04/2026 11:00,Kidney Infection,85,96,125/80,Ciprofloxacin,Stable,plaintext,none,none,none,803300ccf17e86be4a0a4275c3033d993323337c18b695cec251da6a84acbe92,2026-04-22 10:37:05
+1025,Karachi,10/04/2026 11:05,Hypertension,90,95,140/90,Losartan,Monitoring,plaintext,none,none,none,f8b86c33e8da525620134b2c46eba2d36a0efdde7675f8012461548936f8ed20,2026-04-22 10:37:05
+1026,Islamabad,10/04/2026 11:10,Diabetes,87,97,130/85,Insulin,Stable,plaintext,none,none,none,e1f1e444d98d46c851aec7e8895a9ad630b6a843da493793cc70d346d52a2fad,2026-04-22 10:37:05
+1027,Karachi,10/04/2026 11:15,Asthma,82,94,120/80,Ventolin,Improving,plaintext,none,none,none,7092e209d53dddaacf32f67c5c8e30062444fe9b6d297e035610d99b934e0369,2026-04-22 10:37:05
+1028,Islamabad,10/04/2026 11:20,Heart Disease,96,92,150/95,Aspirin,Critical,plaintext,none,none,none,3476cceb89ffb2d7fc62ebf7e93f9a87ad7bc016db55342d34fa8292d1b51adf,2026-04-22 10:37:05
+1029,Karachi,10/04/2026 11:25,Migraine,78,98,120/80,Panadol,Stable,plaintext,none,none,none,d9e92e96d3e14b822db8414cbcf4315b853e29eb6bd4673ee16cc2a9416c116d,2026-04-22 10:37:05
+1030,Islamabad,10/04/2026 11:30,Pneumonia,92,91,135/85,Antibiotics,Serious,plaintext,none,none,none,960cc84b3bf6dece3e56f1f3d861309ba2a262b72877fa20b60f1030562f6557,2026-04-22 10:37:05
+1031,Karachi,10/04/2026 11:35,COVID-19,99,90,140/90,Paracetamol,Observation,plaintext,none,none,none,ba353a2cb1e9eea5d1943315852487a096bd93ed85a98f4cb1ab9a196bf6f2a4,2026-04-22 10:37:05
+1032,Islamabad,10/04/2026 11:40,Kidney Infection,84,96,125/80,Ciprofloxacin,Stable,plaintext,none,none,none,8d6f1edbaea166c752b9cf2f012a5b5c1a8d1975b7cbb614fe8cb9c221e01bc7,2026-04-22 10:37:05
+1033,Karachi,10/04/2026 11:45,Hypertension,89,95,140/90,Amlodipine,Monitoring,plaintext,none,none,none,3a3ee4a5b06bc811898945a9667e5f56f4801be263ad67a3efb9fab49e43ff8d,2026-04-22 10:37:06
+1034,Islamabad,10/04/2026 11:50,Diabetes,86,97,130/85,Metformin,Stable,plaintext,none,none,none,b73f85dc1aa802fdf3661db76d5779329778b29b45efd0dd0add463aed3ed3db,2026-04-22 10:37:06
+1035,Karachi,10/04/2026 11:55,Asthma,81,94,120/80,Ventolin,Improving,plaintext,none,none,none,b77f0bc02cd6cb61ed08db873c81d43319e39e9d9368d4b227cb4177fba5f9bd,2026-04-22 10:37:06
+1036,Islamabad,10/04/2026 12:00,Heart Disease,95,92,150/95,Aspirin,Critical,plaintext,none,none,none,e061dbbfefc2d4a254b91bfa591fd42de50d48e942dc4d2650ef6706cba76d70,2026-04-22 10:37:06
+1037,Karachi,10/04/2026 12:05,Migraine,77,98,120/80,Panadol,Stable,plaintext,none,none,none,f3031bc99e44ba03d955443507d160c661df20a51876fe05e6db86c75b4e3471,2026-04-22 10:37:06
+1038,Islamabad,10/04/2026 12:10,Pneumonia,91,91,135/85,Antibiotics,Serious,plaintext,none,none,none,1b0e7a7a46f2ebb889b1399488946b278a1dc78253513ceef0cf443cb1f3d19b,2026-04-22 10:37:06
+1039,Karachi,10/04/2026 12:15,COVID-19,98,90,140/90,Paracetamol,Observation,plaintext,none,none,none,d12703ecb7f24ef1d996785124a57376c8cb5802d165ddc46067c31ea57d0765,2026-04-22 10:37:06
+1040,Islamabad,10/04/2026 12:20,Kidney Infection,83,96,125/80,Ciprofloxacin,Stable,plaintext,none,none,none,fe66aa9dd28723f95523e9f24c5225a9c90b9359ff1a0b845e07fc57ca267462,2026-04-22 10:37:06
+1041,Karachi,10/04/2026 12:25,Hypertension,88,95,140/90,Losartan,Monitoring,plaintext,none,none,none,88ca3f5e33c4fb8e7be069e0fc4cf2adb51b169d7ab583154f2a14afaeb17bc0,2026-04-22 10:37:06
+1042,Islamabad,10/04/2026 12:30,Diabetes,85,97,130/85,Insulin,Stable,plaintext,none,none,none,1fa747e09bfd400a7121225d60048fac1dcdac72937b00ab7f270e692a4ea905,2026-04-22 10:37:06
+1043,Karachi,10/04/2026 12:35,Asthma,80,94,120/80,Ventolin,Improving,plaintext,none,none,none,6c345b7e9f7db3b68edc293c6b3bb4bfa7832743fab8520bfae5f859b38ea9d4,2026-04-22 10:37:06
+1044,Islamabad,10/04/2026 12:40,Heart Disease,94,92,150/95,Aspirin,Critical,plaintext,none,none,none,8320e84bd88e3f9fca25d14d40e751686f0a59c5416af3e980ddbf9bceb73aee,2026-04-22 10:37:06
+1045,Karachi,10/04/2026 12:45,Migraine,76,98,120/80,Panadol,Stable,plaintext,none,none,none,5adc267c61ed4a2ae474790224d9667ee3c42d6e68a755fc7992ce450db24b7b,2026-04-22 10:37:06
+1046,Islamabad,10/04/2026 12:50,Pneumonia,90,91,135/85,Antibiotics,Serious,plaintext,none,none,none,8de9d73ff6dfbccbc90edb0f33fc332f5ef1b62961a0c4d1c1b3f1c43f68d5a4,2026-04-22 10:37:06
+1047,Karachi,10/04/2026 12:55,COVID-19,97,90,140/90,Paracetamol,Observation,plaintext,none,none,none,44853d69f97af8e169d4b75bd1257eaa3e807efb6de97b9bfb2014748fd7e858,2026-04-22 10:37:06
+1048,Islamabad,10/04/2026 13:00,Kidney Infection,82,96,125/80,Ciprofloxacin,Stable,plaintext,none,none,none,4ebb6c1947ed33e44aa7a7f2090db85a96cf3d3cd33193317d41e64f8f90a256,2026-04-22 10:37:06
+1049,Karachi,10/04/2026 13:05,Hypertension,87,95,140/90,Amlodipine,Monitoring,plaintext,none,none,none,25c4539758f45817fdade9536404dbbab4598f23ce465e63d2095cd8680cae9c,2026-04-22 10:37:06
+1050,Islamabad,10/04/2026 13:10,Diabetes,84,97,130/85,Metformin,Stable,plaintext,none,none,none,aa06cfa70410eba2b3e9486b3166994616a52a1393e0d00512f41dc4ff18a2be,2026-04-22 10:37:06
+1051,Karachi,10/04/2026 13:15,Asthma,79,94,120/80,Ventolin,Improving,plaintext,none,none,none,e70b23184f444bcf86b3d05e5f781d0ae9f33a90c38fd7c749b96f6114d8c1ac,2026-04-22 10:37:06
+1052,Islamabad,10/04/2026 13:20,Heart Disease,93,92,150/95,Aspirin,Critical,plaintext,none,none,none,6291eb4fbd604c8d61b08f9f9c36dc55b3b57e9d479b9605b0f3c260c532279e,2026-04-22 10:37:06
+1053,Karachi,10/04/2026 13:25,Migraine,75,98,120/80,Panadol,Stable,plaintext,none,none,none,7cf2e5b89664b53c2a8e8f1e13d2e2a9d50460e0efe20cb407cfbdd28ea4748a,2026-04-22 10:37:06
+1054,Islamabad,10/04/2026 13:30,Pneumonia,89,91,135/85,Antibiotics,Serious,plaintext,none,none,none,5e7854c31003ba50f10e556388e7d9c57ced13d4154118a511c7db7b45337b67,2026-04-22 10:37:06
+1055,Karachi,10/04/2026 13:35,COVID-19,96,90,140/90,Paracetamol,Observation,plaintext,none,none,none,2a94ecd75ea3b4304d8923d1413bf4b07e0c90d41b059bf0841667180fa9987d,2026-04-22 10:37:06
+1056,Islamabad,10/04/2026 13:40,Kidney Infection,81,96,125/80,Ciprofloxacin,Stable,plaintext,none,none,none,ebc12c8e4374b9e44b9a35673842c241918e35c97446fd5dba24bf66b715181d,2026-04-22 10:37:06
+1057,Karachi,10/04/2026 13:45,Hypertension,86,95,140/90,Losartan,Monitoring,plaintext,none,none,none,41306ff83dc2c5a658850d91513dded2a59ff240de41ad665776632dfe9f3efb,2026-04-22 10:37:06
+1058,Islamabad,10/04/2026 13:50,Diabetes,83,97,130/85,Insulin,Stable,plaintext,none,none,none,5ba9e9165b2a21b87a035511e87ab2ce5a16011462035800936d8d678c379f26,2026-04-22 10:37:06
+1059,Karachi,10/04/2026 13:55,Asthma,78,94,120/80,Ventolin,Improving,plaintext,none,none,none,faa0d63ffa95aad1509c9f8a2ab6c278a0dfd1a3e40eaa5a58fba903b2cd1f54,2026-04-22 10:37:06
+1060,Islamabad,10/04/2026 14:00,Heart Disease,92,92,150/95,Aspirin,Critical,plaintext,none,none,none,91edd9dfdfcf6d6272c1005bea252358415c0c7e135f742023b746496ef8b22c,2026-04-22 10:37:06
+1061,Karachi,10/04/2026 14:05,Migraine,74,98,120/80,Panadol,Stable,plaintext,none,none,none,adb8f527ff7422b1280f8048e1e95861ba215b5afd7e5a654b9f50ef5a70c6ee,2026-04-22 10:37:06
+1062,Islamabad,10/04/2026 14:10,Pneumonia,88,91,135/85,Antibiotics,Serious,plaintext,none,none,none,1541b67632f63293c65f708cf24725909831e7ade522f706d57ee24a8ab898b8,2026-04-22 10:37:07
+1063,Karachi,10/04/2026 14:15,COVID-19,95,90,140/90,Paracetamol,Observation,plaintext,none,none,none,8ba27969b9620590fdd80840683cd499af1c25749265d977358df9d219b6c51d,2026-04-22 10:37:07
+1064,Islamabad,10/04/2026 14:20,Kidney Infection,80,96,125/80,Ciprofloxacin,Stable,plaintext,none,none,none,095353575ba9496e118709f2e2c2ba1fa7b4b8adc5d6f290a7adfa299ab6a7fd,2026-04-22 10:37:07
+1065,Karachi,10/04/2026 14:25,Hypertension,85,95,140/90,Amlodipine,Monitoring,plaintext,none,none,none,8eaa82721191d7fcb11a0f37463d015df0e546ea42c2ad9de7f5b6ba980797a1,2026-04-22 10:37:07
+1066,Islamabad,10/04/2026 14:30,Diabetes,82,97,130/85,Metformin,Stable,plaintext,none,none,none,0abccdcb8259c7892c8b2df4b0bf1fb2dc8ee72b0d0c4817756db239f55143fe,2026-04-22 10:37:07
+1067,Karachi,10/04/2026 14:35,Asthma,77,94,120/80,Ventolin,Improving,plaintext,none,none,none,92979a88c8f0ac1f5157e7ec534ef801d08ffaa3f0ac4278b3c1b963cefe3dd1,2026-04-22 10:37:07
+1068,Islamabad,10/04/2026 14:40,Heart Disease,91,92,150/95,Aspirin,Critical,plaintext,none,none,none,7e75f3b01944f90937ffb0298f29d1a2ba2a0e99a442621b60baf88186b6cf88,2026-04-22 10:37:07
+1069,Karachi,10/04/2026 14:45,Migraine,73,98,120/80,Panadol,Stable,plaintext,none,none,none,6efe6fd66948a29f611713f17aebccd99940444adea0a556b4d5354d9367f2c5,2026-04-22 10:37:07
